@@ -1,0 +1,7 @@
+torch==2.4.0
+mne==1.7.0
+numpy==2.0.0
+scikit-learn==1.5.2
+onnxruntime==1.19.0
+pyserial==3.5
+brainflow==5.12.0
